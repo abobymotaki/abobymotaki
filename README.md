@@ -7,8 +7,11 @@ Full-stack developer and software engineering student with a knack for turning c
 - **Discord**: anonymous21707
 - **LinkedIn**: https://linkedin.com/in/taki-ahmed
 
+
 ## Work Experience
 ### **Qasr Al Zumurud** - Web Designer
 - Responsible for Developing the entire website along with another team member.
 - Lead designer of the website
 - Setup all projects, pages and SEO optimization.
+### **University of Bolton** - Full Stack 
+- Details Incoming soon!
