@@ -8,9 +8,9 @@
 ## Work Experience
 ---
 - **Qasr Al Zumurud** - Web Designer
-> - Responsible for Developing the entire website along with another team member.
-> - Lead designer of the website
-> - Setup all projects, pages and SEO optimization.
+> Responsible for Developing the entire website along with another team member.
+> Lead designer of the website
+> Setup all projects, pages and SEO optimization.
 
 <!---
 abobymotaki/abobymotaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
