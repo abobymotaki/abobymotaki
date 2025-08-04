@@ -12,9 +12,9 @@ Full-stack developer and software engineering student with a knack for turning c
 
 ## Work Experience
 ### **Qasr Al Zumurud** - Web Designer
-- Responsible for Developing the entire website along with another team member.
-- Lead designer of the website
-- Setup all projects, pages and SEO optimization.
+- Created the entire website using the Wordpress AI and setup all the projects on a Pre-generated Template. Modified template to client needs.
+- Achieved Complete SEO Optimization and managed to get the website display as the top result when looked up.
+- Clients can directly view history of the company by checking the Website.
 ### **University of Bolton** - Full Stack Website Developer
 **Project: Planify**
 - Details Incoming soon!
