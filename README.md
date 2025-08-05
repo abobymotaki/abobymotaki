@@ -6,27 +6,28 @@
 <a href="https://linkedin.com/in/taki-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taki-ahmed" height="30" width="40" /></a>
 </p>
 
-<br />
+
 ### ABOUT ME
 Full-stack developer and software engineering student with a knack for turning chaotic thoughts into clean, working code. Whether I’m freelancing solo or collaborating in a team, I thrive on building useful things out of nothing. Quick to learn, always refining, and endlessly experimenting with tools like Vue.js, Laravel, Java, and PHP. I don’t just live to code—I code to make sense of things.
 
-<br />
+
 ### Social Details:
 - **Discord**: anonymous21707
 - **LinkedIn**: https://linkedin.com/in/taki-ahmed
 - **Website**: coming soon!
 
-<br />
+
 ## Work Experience
 ### **Qasr Al Zumurud** - Web Designer
-- Created the entire website using the Wordpress AI and setup all the projects on a Pre-generated Template. Modified template to client needs.
+`https://qasralzumurud.com`
+- Created the entire website using the Wordpress AI and setup all the projects on a AI Generated Template. Modified template to client needs.
 - Achieved Complete SEO Optimization and managed to get the website display as the top result when looked up.
-- Clients can directly view history of the company by checking the Website.
+- Visitors can directly view history of the company by checking the Website.
 ### **University of Bolton** - Full Stack Website Developer
 **Project: Planify**
 - Details Incoming soon!
 
-<br />
+
 ## Projects
 - Coming Soon
 
