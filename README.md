@@ -19,7 +19,7 @@ Full-stack developer and software engineering student with a knack for turning c
 
 ## Work Experience
 ### **Qasr Al Zumurud** - Web Designer
-`https://qasralzumurud.com`
+Link: https://qasralzumurud.com
 - Created the entire website using the Wordpress AI and setup all the projects on a AI Generated Template. Modified template to client needs.
 - Achieved Complete SEO Optimization and managed to get the website display as the top result when looked up.
 - Visitors can directly view history of the company by checking the Website.
