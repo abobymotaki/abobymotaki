@@ -108,4 +108,4 @@ Oversaw daily operations, POS system administration, financial reconciliation, a
 
 - **Email:** takiakiba3@gmail.com
 - **Discord:** anonymous21707
-- **Website:** coming soon!
+- **Website:** [My Portfolio](https://takiahmed-cv.vercel.app)
