@@ -76,7 +76,7 @@ Oversaw daily operations, POS system administration, financial reconciliation, a
 
 **Backend**
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img src="https://imgs.search.brave.com/0P7PbRGvCO5JMFad1yS-uO4c2ST1knKa0sQEzWV4aMQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxhcmF2ZWwtbG9n/by1pY29uLXN2Zy1k/b3dubG9hZC1wbmct/MjI4NDk1Ni5wbmc_/Zj13ZWJwJnc9MTI4" alt="laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
