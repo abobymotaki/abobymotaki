@@ -16,7 +16,7 @@
 
 I'm a Full-Stack Developer and Software Engineering student pursuing a Bachelor's in Engineering (Software Development) at the University of Bolton (expected May 2027). I focus on building practical, user-centric web applications and tools that solve real-world problems — with 4+ years of hands-on experience shipping complete solutions from concept to deployment, whether freelancing solo or working within a team.
 
-- 📍 Based in Chittagong, Bangladesh
+- 📍 From Chittagong, Bangladesh. Based in UAE
 - 🎯 Role: Full-Stack Developer
 - 📧 **Email:** takiakiba3@gmail.com
 - 🌱 **Currently exploring:** AI, Machine Learning, Psychology, Biology, History
